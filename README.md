@@ -1,4 +1,8 @@
-## Hi there 👋
+### 🛠 Languages and Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 <!--
 **Abhishek-190707/Abhishek-190707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
