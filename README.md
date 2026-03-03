@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mathematics for M.L.<br>👯 I’m looking to collaborate on Kaggle Competitons.<br>🤝 I’m looking for help with Guidence from the Best's.<br>🌱 I’m currently learning Stats and Linear algebra.<br>💬 Ask me about data science , space and anything.<br>
+🔭 I’m currently working on Mathematics for M.L.<br>👯 I’m looking to collaborate on Kaggle Competitons.<br>🤝 I’m looking for help and Guidence from the Best's.<br>🌱 I’m currently learning Stats, probability, calculas and Linear algebra.<br>💬 Ask me about data science , space and anything.<br>
 
 
 ## 🌐 Socials:
